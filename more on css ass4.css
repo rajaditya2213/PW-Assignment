@@ -1,0 +1,19 @@
+*{
+     margin: 0px;
+     padding: 0px;
+     background-color:#e7b3b3;
+}
+
+div{
+     height: 300px;
+     width: 300px;
+     background-color:#800000;
+     text-align: center;
+}
+.img{
+     position: relative;
+     height: 250px;
+     width: 250px;
+     background-size: cover;
+     border-radius: 50%;
+}

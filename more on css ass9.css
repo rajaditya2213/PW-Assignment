@@ -1,0 +1,42 @@
+*{
+     margin: 0px;
+     padding: 0px;
+
+}
+
+.box1{
+     /* border: 2px solid black; */
+     height: 250px;
+     width: 300px;
+     padding: 20px 0px 15px;
+     background-color: aqua;
+     border-radius: 5%;
+
+}
+.container{
+     display: flex;
+}
+
+.box-img{
+     background-size: cover;
+     height: 200px;
+     border-radius: 5%;
+}
+.box-content{
+     margin-left: 1rem;
+     margin-right: 1rem;
+}
+
+.box-content h2{
+     margin-bottom: 30px;
+}
+
+.box-img:hover{
+     opacity: 1;
+     transform:scale(1.1);
+     transition: all 0.3s;
+}
+.box1:hover{
+     opacity: 1;
+     transform:scale(1.1);
+}

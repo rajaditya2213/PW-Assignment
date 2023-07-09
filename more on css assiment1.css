@@ -1,0 +1,35 @@
+*{
+     margin: 0px;
+     padding: 0px;
+     box-sizing: border-box;
+
+}
+.nav-bar{
+     height: 60px;
+     background-color: #0a83b2;
+}
+.nav-bar ul li{
+     list-style: none;
+     display: inline-block;
+     margin: 0px 20px;
+     
+}
+.nav-bar a{
+     font-size: 25px;
+     color: #fff;
+     text-decoration: none;
+     transition: 0.3s all;
+     text-decoration: underline;
+
+     margin-left: 30px;
+     margin-right: 20px;
+
+}
+.nav-bar ul li a:hover{
+     color:maroon;
+}
+/* .hover-line{
+     content: '';
+     display: block;
+     background-color: whitesmoke;
+} */

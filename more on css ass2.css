@@ -1,0 +1,36 @@
+*{
+     margin: 0px;
+     padding: 0px;
+}
+
+.box{
+     height: 210px;
+     width: 210px;
+     border-radius: 5%;
+     padding: 1px 15px 5px 5px;
+     background-color:aqua;
+}
+.img-box{
+     height: 150px;
+     width: 200px;
+     border-radius: 5%;
+     background-size: cover;
+     margin-top: 1rem;
+     margin-bottom: 1rem;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     
+}
+h1{
+     font-size: 15px;
+}
+span{
+     font-size: 12px;
+}
+.box-content{
+     margin-top: 5px;
+     margin-left: 10px;
+     margin-right: 10px;
+     
+}

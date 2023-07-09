@@ -1,0 +1,24 @@
+*{
+     background-color:black;
+}
+h1{
+     font-family: 'Oswald', sans-serif;
+     text-align: center;
+     color: brown;
+/* 
+     font-family: 'Bangers', cursive;
+     font-family: 'Fasthand', cursive;
+     font-family: 'Lobster', cursive;
+     font-family: 'Montserrat', sans-serif;
+     font-family: 'Playball', cursive; */
+}
+p{
+     font-family: 'Montserrat', sans-serif;
+     color: teal;
+/* 
+font-family: 'Bangers', cursive;
+font-family: 'Fasthand', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playball', cursive; */
+}

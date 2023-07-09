@@ -1,0 +1,13 @@
+*{
+     background-color:#dd63dd;
+}
+
+h1{
+     text-align: center;
+     color: teal;
+}
+.container img{
+     height: 300px;
+     width: 300px;
+     background-size: cover;
+}

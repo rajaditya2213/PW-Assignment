@@ -1,0 +1,23 @@
+*{
+     margin: 0px;
+     padding:0px;
+     box-sizing: border-box;
+     background-color:#3a2e2e;
+}
+.img-container{
+     display: inline-block;
+     position: relative;
+}
+
+.img-container img{
+     height: 300px;
+     width: 300px;
+     display: block;
+     border: 2px solid whitesmoke;
+     border-radius: 50%;
+     transition: border-color 0.3s ease;
+}
+.img-container img:hover{
+
+     border-color:#006400;
+}
